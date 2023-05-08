@@ -1,1 +1,1 @@
-Learning git commans
+Learning git commands
